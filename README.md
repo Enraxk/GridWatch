@@ -1,4 +1,4 @@
-![Uploading gridwatch_logo_dark-Dwjg7zJE.png…]()
+![GridWatch Logo](ClientApp/dist/assets/gridwatch_logo_dark-Dwjg7zJE.png)
 
 
 **GridWatch** es una solución web moderna para la monitorización y visualización en tiempo real de datos eléctricos provenientes de dispositivos físicos propios. Desarrollado como Trabajo de Fin de Grado (TFG) en Desarrollo de Aplicaciones Web (DAW), GridWatch integra tecnologías de frontend y backend actuales, proporcionando una plataforma robusta, escalable y segura.
