@@ -1,0 +1,6 @@
+@GridWatchADTApi_HostAddress = http://localhost:5186
+
+GET {{GridWatchADTApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

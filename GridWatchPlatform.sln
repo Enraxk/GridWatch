@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GridWatchAPIs", "GridWatchAPIs", "{891AEA44-D557-4F0B-9295-C275CBDDAB7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridWatchDeviceApi", "GridWatchAPIs\GridWatchDeviceApi\GridWatchDeviceApi.csproj", "{5712BFEE-BA4F-4632-9901-4A6A5EB2D06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridWatchADXApi", "GridWatchAPIs\GridWatchADXApi\GridWatchADXApi.csproj", "{6810B043-2E84-438B-AEED-1FA4FBFCADF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridWatchADTApi", "GridWatchAPIs\GridWatchADTApi\GridWatchADTApi.csproj", "{9CBB0690-CA2E-4051-A635-384E0D6768D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridWatchSQLApi", "GridWatchAPIs\GridWatchSQLApi\GridWatchSQLApi.csproj", "{6A61E7F6-CE74-418B-B8D1-3B6B83D2CAF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridWatchFunctions", "GridWatchFunctions\GridWatchFunctions.csproj", "{45D86605-0F3A-45E4-BBA2-4211644B89BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridWatchPortal", "GridWatchPortal\GridWatchPortal.csproj", "{E7985796-D233-4E9B-8FFA-1B29A85AE336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5712BFEE-BA4F-4632-9901-4A6A5EB2D06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5712BFEE-BA4F-4632-9901-4A6A5EB2D06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5712BFEE-BA4F-4632-9901-4A6A5EB2D06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5712BFEE-BA4F-4632-9901-4A6A5EB2D06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6810B043-2E84-438B-AEED-1FA4FBFCADF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6810B043-2E84-438B-AEED-1FA4FBFCADF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6810B043-2E84-438B-AEED-1FA4FBFCADF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6810B043-2E84-438B-AEED-1FA4FBFCADF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBB0690-CA2E-4051-A635-384E0D6768D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBB0690-CA2E-4051-A635-384E0D6768D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBB0690-CA2E-4051-A635-384E0D6768D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBB0690-CA2E-4051-A635-384E0D6768D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A61E7F6-CE74-418B-B8D1-3B6B83D2CAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A61E7F6-CE74-418B-B8D1-3B6B83D2CAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A61E7F6-CE74-418B-B8D1-3B6B83D2CAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A61E7F6-CE74-418B-B8D1-3B6B83D2CAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D86605-0F3A-45E4-BBA2-4211644B89BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D86605-0F3A-45E4-BBA2-4211644B89BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D86605-0F3A-45E4-BBA2-4211644B89BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D86605-0F3A-45E4-BBA2-4211644B89BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7985796-D233-4E9B-8FFA-1B29A85AE336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7985796-D233-4E9B-8FFA-1B29A85AE336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7985796-D233-4E9B-8FFA-1B29A85AE336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7985796-D233-4E9B-8FFA-1B29A85AE336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5712BFEE-BA4F-4632-9901-4A6A5EB2D06D} = {891AEA44-D557-4F0B-9295-C275CBDDAB7B}
+		{6810B043-2E84-438B-AEED-1FA4FBFCADF1} = {891AEA44-D557-4F0B-9295-C275CBDDAB7B}
+		{9CBB0690-CA2E-4051-A635-384E0D6768D7} = {891AEA44-D557-4F0B-9295-C275CBDDAB7B}
+		{6A61E7F6-CE74-418B-B8D1-3B6B83D2CAF5} = {891AEA44-D557-4F0B-9295-C275CBDDAB7B}
+	EndGlobalSection
+EndGlobal
